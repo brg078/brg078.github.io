@@ -1,6 +1,10 @@
 body{
-  background-color: grey;
-  color: white;
+  background-color: beige;
+  color: darkslategray;
   font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif
+  font-family: helvetica, arial, sans-serif
+}
+
+.center {
+  text-align: center;
 }
