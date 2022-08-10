@@ -2,8 +2,8 @@ body{
   background-color: beige;
   color: darkslategray;
   font-size: 14px;
-  font-family: helvetica, arial, sans-serif
-  word-wrap: 200px
+  font-family: helvetica, arial, sans-serif;
+  max-width: 750px
 }
 
 .center {
