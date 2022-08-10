@@ -1,9 +1,15 @@
-body{
+.container {
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+   
+
+.body{
   background-color: beige;
   color: darkslategray;
   font-size: 14px;
   font-family: helvetica, arial, sans-serif;
-  max-width: 1250px
+  max-width: 1000px;
 }
 
 .center {
