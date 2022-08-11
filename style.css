@@ -1,11 +1,14 @@
+body{
+  max-width: 1000px;
+}
+
 .container{
   padding: 100px;
   background-color: beige;
   color: darkslategray;
   font-size: 14px;
   font-family: helvetica, arial, sans-serif;
-  max-width: 1000px;
-}
+  }
 
 .center{
   text-align: center
