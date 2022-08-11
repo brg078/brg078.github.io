@@ -1,4 +1,4 @@
-.body{
+body{
   background-color: beige;
   color: darkslategray;
   font-size: 14px;
@@ -6,6 +6,6 @@
   max-width: 1000px
 }
 
-.center {
+center{
   text-align: center
 }
